@@ -34,31 +34,35 @@ sidebar:
       - item: Danse
         link:
 
-      - item: profiter de la vie et boire de mojito en terrasse 
+      - item: cuisine 
         link:
         
-    interests:
-      - item:
+    competences & Aptitude:
+      - item: Gestion de projet
         link:
 
-      - item: 
+      - item: Avant vente 
         link:
 
-      - item:  
+      - item:  Storytelling 
+        link:
+      - item: Creative
         link:
 
+      - item: pense stratégiquement
+        link:
+
+      - item:  curieuse 
+        link:
 
 career-profile:
     title: Profil de carrière
     summary: |
-      - Expere en gestion de projet 
-      - Expert en avant vente 
-      - Expert en mécatronique et robotique
-      - Expert en langage RUST
-      - Architecte logiciel et veille technique
-      - Concepteur d'outils pour développeurs
-      - Formateur sur les nouvelles technologies
-      - Chef d'équipe de développement et revue de code
+      - Gestion de projet 
+      - Avant vente
+      - Présentation produit et mise en place de POC à forte technicité
+      - Participaton à des salons à l'internationnal ( CES, IBC, NAB show, CABSAT,..) 
+      - Gestion budgetaire et 
 
 education:
     - degree: Bac +5 (Master / MBA), Informatique
