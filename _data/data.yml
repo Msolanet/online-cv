@@ -8,37 +8,40 @@ sidebar:
 
     # Profile information
     name: Mariem SOLANET
-    tagline: Ingénieur informatique senior
+    tagline: Project Manager 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: francois.solanet@gmail.com
-    phone: 0673021946
-    linkedin: françois-solanet-894a9184
-    github: rubik83
+    email: mariem.solanet@gmail.com
+    phone: 0689114112
+    linkedin: https://www.linkedin.com/in/mariem-solanet-927bb8109/
+    github: Msolanet
 
     languages:
-      - idiom: Français
+      - idiom: Arabe
         level: Maternelle
 
-      - idiom: Anglais
-        level: Technique
+      - idiom: Français 
+        level: Bilingue 
+
+      - idiom: Anglais 
+        level: Niveau B2 
 
     interests:
-      - item: Snowboard
+      - item: voyage 
         link:
 
-      - item: Volleyball
+      - item: Danse
         link:
 
-      - item: Handball
+      - item: profiter de la vie et boire de mojito en terrasse 
         link:
 
 career-profile:
     title: Profil de carrière
     summary: |
-      - Expert en informatique embarquée
-      - Expert en modélisation et simulation
+      - Expere en gestion de projet 
+      - Expert en avant vente 
       - Expert en mécatronique et robotique
       - Expert en langage RUST
       - Architecte logiciel et veille technique
