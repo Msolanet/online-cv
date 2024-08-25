@@ -63,18 +63,18 @@ career-profile:
       - Avant vente
       - Présentation produit et mise en place de POC à forte technicité
       - Participaton à des salons à l'internationnal ( CES, IBC, NAB show, CABSAT,..) 
-      - Gestion budgetaire et 
+      - Gestion budgetaire et  
 
 education:
     - degree: Bac +5 (Master / MBA), Informatique
       university: ISIMA - Clermont-Ferrand (63)
-      time: 2003 - 2006
+      time: 2009 - 2012
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
-    - role: Développeur informatique embarquée
-      time: Décembre 2022 - aujourd'hui
-      company: AddUp - Clermont-Ferrand (63)
+    - role: Management projets
+      time: Septembre 2019 - aujourd'hui
+      company: Perfect Memory - Clermont-Ferrand (63)
       details: |
         - https://addupsolutions.com/machines/pbf/formup-350/
         - Dévelopements de code .Net C# du coeur de pilotage de la machine d'impression 3D métal
