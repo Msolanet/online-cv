@@ -62,8 +62,8 @@ career-profile:
       - Gestion de projet 
       - Avant vente
       - Présentation produit et mise en place de POC à forte technicité
-      - Participaton à des salons à l'internationnal ( CES, IBC, NAB show, CABSAT,..) 
-      - Gestion budgetaire et 
+      - Participaton à des salons à l'internationnal (CES, IBC, NAB show, CABSAT,..) 
+      - Gestion budgetaire et du risque 
 
 education:
     - degree: Bac +5 (Master / MBA), Informatique
@@ -72,30 +72,21 @@ education:
       details: Institut Supérieur d’Informatique, de Modélisation et de leurs Applications
 
 experiences:
-    - role: Management projets
+    - role: Management projets et ingenieur avant vente 
       time: Septembre 2019 - aujourd'hui
       company: Perfect Memory - Clermont-Ferrand (63)
       details: |
         - https://www.perfect-memory.com/
-        - Management de differents équipes projets  dans le cadre de 4 projets clients . 
-        - Mise en place de projets exigeants en termes de qualité, budget, scope, planning, satisfaction client, contraintes techniques, volumétrie de données, nombre d’utilisateurs et disponibilité de 
-la plateforme. 
-Gestion des prestataires externes et équipes internes, participation à des appels d’offres et choix de solutions 
-techniques, gestion des conflits, rédaction des spécifications, suivi des développements, réalisation et 
-pilotage des tests et des tests de charge, organisation des formations et de l’accompagnement au 
-changement. 
-Gestion du risque et de la communication, organisation et participation aux comités (Codir, Copil, SteerCo) 
-Expertise data et BI ainsi qu’une solide culture technique : environnements, langages informatiques, data et 
-data science (machine learning et deep learning). 
-Outils gestion de projet : Jira (scrum et Kanban), Azure DevOps, MindJet (MindManager), Microsoft project. 
-Outils data, data flows et data science : SQL (expert), Azure data factory, Microsoft Power Automate, SSIS, 
-SSRS, Python (NumPy, SCIKit, TensorFlow) 
-Outils reportings BI : Microsoft power BI, Google Data Studio 
-Environnements techniques et langages de programmation : C# .Net, Microsoft Azure,Postman, VBA, Git, 
-Jmeter, Gatling, TestLink, Mantis, TurtoiseSVN, Javascript
-        - Algorithmes de modèle optique des têtes laser
-        - Dashboards de monitoring des machines (Grafana)
-        - Prototype d'une nouvelle carte électronique (STM32/Nucléo)
+        - Management de differents équipes projets dans le cadre de 4 projets clients. 
+        - Mise en place de projets internatinaux et exigeants en termes de qualité, budget, scope, planning, satisfaction client, 
+          contraintes techniques, volumétrie de données, déploiement et disponibilité de la plateforme. 
+        - Gestion des prestataires externes et équipes internes, participation à des appels d’offres et choix de solutions 
+          techniques, gestion des conflits, rédaction des spécifications, suivi des développements,
+          organisation des formations et de l’accompagnement au changement. 
+        - Gestion du risque et de la communication
+        - Conduite de diffentes opperations d'avant vente avec des entreprise dans diffentes industries , realisation PoCs et de démos qui ont mené a des 
+importantes signatures
+
 
     - role: Chef d'équipe de développeurs RUST
       time: Janvier 2021 - Novembre 2022
@@ -306,7 +297,7 @@ skills:
     title: Compétences
 
     toolset:
-      - name: Rust (3 ans)
+      - name: Jira (3 ans)
         level: 98%
 
       - name: .Net C# (2 ans)
