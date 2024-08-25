@@ -19,13 +19,13 @@ sidebar:
 
     languages:
       - idiom: Arabe
-        level: Maternelle
+        level: Native
 
       - idiom: Français 
-        level: Bilingue 
+        level: Native 
 
       - idiom: Anglais 
-        level: Niveau B2 
+        level: Fluent
 
     interests:
       - item: voyage 
