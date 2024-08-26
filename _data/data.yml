@@ -61,41 +61,25 @@ experiences:
         - Mise en place de projets internatinaux et exigeants en termes de qualité, budget, scope, planning, satisfaction client, contraintes techniques, volumétrie de données, déploiement et disponibilité de la plateforme. 
         - Gestion des prestataires externes et équipes internes, participation à des appels d’offres et choix de solutions techniques, gestion des conflits, rédaction des spécifications, suivi des développements, organisation des formations et de l’accompagnement au changement. 
         - Gestion du risque et de la communication
+       
         - Conduite de diffentes opperations d'avant vente avec des clients dans diffentes industries
         - Realisation de PoCs et de démos qui ont mené à des importantes signatures
         - Reponses aux RFPs, et participations à des salons à l'internationnal(CES, IBC, NAB show, CABSAT,..)
 
-    - role: Chef d'équipe de développeurs RUST
-      time: Janvier 2021 - Novembre 2022
-      company: EFFIDENCE - Clermont-Ferrand (63)
+    - role: Consultante Business 
+      time: Janvier 2018 - juillet 2019
+      company: Lojelis - Clermont-Ferrand (63)
       details: |
-        - Intégration de 2 nouveaux développeurs dans l'équipe bas niveau Effidence
-        - Formation aux microcontrôleurs STM32
-        - Formation à la conception électronique (KiCAD) et envoi en production
-        - Formation au langage RUST ainsi que tous ses concepts :
-          - Borrow checker
-          - Macro procédurales
-          - Programmation asynchrone
-          - Lambda
-          - Programmation fonctionnelle
-          - Encapsulation
-          - Vérifications à la compilation par typage fort
-          - Généricité
-          - ...
-        - Formation au outils modernes de développements :
-          - Git
-          - GitLab
-          - Intégration/Déploiement continu (Docker, CI/CD)
-          - Visual Studio Code (vscode)
-        - Revue de code
-        - Orientation techniques de l'équipe
-        - Expertise d'équipe sur les problématiques les plus délicates
+        - Dans un cadre Agile, projet de mise en place d’un outil BI au sein de la Supply Chain Michelin
+        - Rédaction des jeux de test
+        - Définition de la stratégie de reprise de données
+        - Documentation des procédures opérationnelles
 
-    - role: Architecte logiciel
-      time: Juin 2020 - Décembre 2020
-      company: EFFIDENCE - Clermont-Ferrand (63)
+    - role: PMO
+      time: Avril 2016 - juillet 2018
+      company: Lojelis - Clermont-Ferrand (63)
       details: |
-        Conception d'un framework RUST de dévelopement de firmwares :
+        Centraliser le pilotage ainsi que le suivi des projets. Faire progresser les capacités de gestion de projet par l’amélioration des méthodes et des procédures :
 
         - exécution sur MCU ou sur PC avec la partie simulation du framework (RUST+Iced)
         - système de bootloader pour mise à jour facile des firmwares (RUST-EMBEDDED+Python+IntelHex)
