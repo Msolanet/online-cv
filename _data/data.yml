@@ -114,7 +114,10 @@ skills:
     toolset:
       - name: Gestion de projet
         level: 90%
-
+        
+      - name: Leader ship
+        level: 90%
+        
       - name: Avant vente 
         level: 85%
 
@@ -126,6 +129,8 @@ skills:
 
       - name: Travail d'équipe  
         level: 90%
+      
+    
 
 
 footer: 
