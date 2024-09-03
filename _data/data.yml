@@ -119,19 +119,25 @@ skills:
       - name: Leadership, communication et collaboration 
         level: 90%
         
-      - name: Avant vente 
+      - name: Avant vente, Narration
         level: 85%
-
-      - name: Narration 
-        level: 82%
         
-      - name: Creative
-        level: 80%
-
       - name: Orientation vers le résultat et sens pratique
         level: 90%
+        
+      - name: Jira, Ms Project 
+        level: 90%
+        
+      - name: DAM (Data Asset Management)
+        level: 80%
+        
+      - name: Microstrategy, SQL Developer
+        level: 60%
 
-    
+    - name: Oracle Application R12 
+        level: 60%
+    - name: Oracle Fusion Apps, Oracle E-business Suite, 
+        level: 60%
 
 
 footer: 
