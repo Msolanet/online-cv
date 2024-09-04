@@ -133,11 +133,11 @@ skills:
         
       - name: Microstrategy, SQL Developer
         level: 60%
-
-    - name: Oracle Application R12 
+        
+      - name: Oracle Application R12 
         level: 60%
         
-    - name: Oracle Fusion Apps, Oracle E-business Suite
+      - name: Oracle Fusion Apps, Oracle E-business Suite
         level: 60%
 
 
